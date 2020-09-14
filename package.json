@@ -1,0 +1,19 @@
+{
+    "name": "serverless-validator",
+    "version": "1.0.0",
+    "description": "Plugin for the Serverless Framework",
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tyagiprince2010/serverless-validator"
+    },
+    "engines": {
+        "node": ">=8.0"
+    },
+    "files": [
+        "src",
+        "package.json",
+        "README.md"
+    ],
+    "author": "tyagi.prince2010@gmail.com"
+}
